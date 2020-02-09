@@ -11,7 +11,7 @@ After this, we pulled up Android Studio on the laptop, and we were stuck. We had
 Here are the links to our docs and GDrawing and images of what we have so far if you wanted to look our progress
 - [Doc of what we do in class](https://docs.google.com/document/d/1_NWBiT3tl-vEboQtRWZ78SQo004R8sNnm5zYsBldmUc/edit?usp=sharing)
 - [Doc of pseudocode](https://docs.google.com/document/d/1eGNqHRxrGHHc3pSJTg-j7gcG9AdUIYPGmK2woHI2qKs/edit?usp=sharing)
-![pseudocode](../psudocode.png)
+![pseudocode](../pseudocode.png)
 - [Doc of GDrawing](https://docs.google.com/drawings/d/1IWHLEkYr_6-Mb_Rg4xUp7Q15AoOqxigXbXkgiM7-sBE/edit?usp=sharing)
 ![GDrawing](../GDrawing.png)
 
